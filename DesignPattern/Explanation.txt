@@ -1,0 +1,10 @@
+﻿what is a class factory?
+- A class factory method creates objects of classes. These objects share a common
+base class or interface and the object of the sub classes are returned.
+
+what is factory design pattern?
+- Here objects created will be decided by a separate factory class.
+
+what is abstract desing pattern?
+- create related objects with a single interface without specifying the concrete
+classes.
